@@ -51,33 +51,5 @@ This project is an Android-based mobile application developed to help individual
 
 ---
 
-## 💬 Kullanıcı Geri Bildirimleri | User Feedback
-
-> "Kullanımı çok kolay ve hızlı. Harcamalarımı artık unutmuyorum."  
-> — Beta Kullanıcısı
-
----
-
-## ✅ Lisans | License
-
-Bu proje MIT lisansı ile lisanslanmıştır. Ayrıntılı bilgi için `LICENSE` dosyasına bakınız.
-
----
-
-## 🤝 Katkıda Bulun | Contributing
-
-Her türlü katkıya açığız! Hataları bildir, yeni özellik öner veya doğrudan katkı gönder:
-1. Fork yap  
-2. Yeni bir dal (branch) oluştur  
-3. Değişikliklerini commit et  
-4. Pull request gönder  
-
----
-
-## 👤 Geliştirici | Developer
-
-Ahmad Atiyah  
-> Southern University at New Orleans  
-> [MIT App Inventor](http://appinventor.mit.edu/) kullanılarak geliştirilmiştir.
 
 ---
