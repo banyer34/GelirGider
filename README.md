@@ -39,17 +39,7 @@ This project is an Android-based mobile application developed to help individual
 4. Uygulamayı çalıştır ve gelir-gider yönetimine hemen başla!
 
 > Uygulama internet bağlantısı gerektirmez ve veriler cihazda tutulur.
-
----
-
-## 📸 Ekran Görüntüleri | Screenshots
-
-| Giriş Ekranı | Özet Ekranı | Gelir/Gider Girişi | Geçmiş Ekranı |
-|-------------|--------------|---------------------|----------------|
-| ![](screens/screen1.png) | ![](screens/summary.png) | ![](screens/add.png) | ![](screens/history.png) |
-
-> Görseller `screens/` klasörüne yerleştirilmeli ve yukarıdaki isimlerle eşleşmelidir.
-
+> 
 ---
 
 ## 🧪 Testler | Testing
